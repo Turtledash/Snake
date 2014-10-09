@@ -15,6 +15,7 @@ public class test {
 		IGUI g = new GUI();
 		GameEngine ge = new GameEngine(g);
 		ge.play();
+		//
 	}
 
 }
